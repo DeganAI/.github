@@ -29,19 +29,6 @@ At DegenAI, we craft **privacy tools** and **AI agents** to empower humanity aga
 
 ---
 
-## Installation
-Ready to jack in? Clone the repo and set it up:  
-
-```bash
-git clone https://github.com/degenai/main.git
-cd main
-npm install
-```
-
-**Pro tip**: Use a secure rig. The corps never sleep.
-
----
-
 ## Usage
 Wield the tools of the shadows:
 Check [deganai.us/docs](https://deganai.us/docs) for more—if you dare.
@@ -50,10 +37,8 @@ Check [deganai.us/docs](https://deganai.us/docs) for more—if you dare.
 
 ## Contributing
 Got skills? We need runners:  
-
-1. Fork the repo.  
-2. Hack in features, squash bugs, or disrupt the norm.  
-3. Send a pull request.  
+  
+Hack in features, squash bugs, or disrupt the norm.  
 
 **Warning**: Keep it clean. Trust is scarce down here.
 
