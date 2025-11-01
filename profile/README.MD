@@ -33,7 +33,7 @@ At DegenLlama, we develop **autonomous agents** and **web3 solutions** to advanc
 
 Unleash the future:
 
-Check [degenllama.us/docs](https://degenllama.us/docs) for guides—if you're ready to build.
+Check [degenllama.net/docs](https://degenllama.us/docs) for guides—if you're ready to build.
 
 ---
 
