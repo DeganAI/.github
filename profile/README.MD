@@ -57,4 +57,4 @@ Innovation without barriers. Build boldly, but responsibility is yours.
 
 ## Build the Future, Secure Your Rights
 
-DegenLlama isn't just software—it's a movement toward a world where autonomous agents empower, web3 democratizes, automation liberates, and human rights thrive. Join us at [degenllama.us](https://degenllama.us) or connect in the [Discord](https://discord.gg/degenllama) to forge the path ahead.
+DegenLlama isn't just software—it's a movement toward a world where autonomous agents empower, web3 democratizes, automation liberates, and human rights thrive. Join us at [degenllama.net](https://degenllama.net) or connect in the [Discord](https://discord.gg/degenllama) to forge the path ahead.
